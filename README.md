@@ -10,4 +10,5 @@ alert("The page just loaded!");
 
 <script type="text/javascript">
   $(".a").css("boarder","3px solid red");
+  $("p, li.b").css("boarder", "3px solid red");
 </script>
