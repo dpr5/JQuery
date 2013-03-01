@@ -15,4 +15,4 @@ alert("The page just loaded!");
 
 
 <script type="text/javascript">
-  $("p:first").css("boarder", "3px solid red")'
+  $("p:last").css("boarder", "3px solid red")'
