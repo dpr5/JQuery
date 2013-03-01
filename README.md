@@ -9,5 +9,5 @@ alert("The page just loaded!");
 }
 
 <script type="text/javascript">
-  $("p").css("boarder","3px solid red");
+  $(".a").css("boarder","3px solid red");
 </script>
