@@ -17,4 +17,5 @@ alert("The page just loaded!");
 <script type="text/javascript">
   $(".a:gt(1)").css("boarder", "3px solid red");
   $("li:contains(3)").css("boarder", "3px solid red");
+  $("ul:has(li[class=a]).css("boarder',"3px solid red");
 </script>
